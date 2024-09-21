@@ -43,5 +43,5 @@ Created a view (Avg_Crop_Yield_By_Region) to simplify querying the average crop 
 Demonstrated how to update specific records, such as increasing the crop yield for India.
 Modified adaptation strategies based on crop type, showing the application of conditional updates.
 
-Conclusions
+Conclusions:
 The analysis revealed significant variations in crop yield across different countries and regions, the financial impacts of various adaptation strategies, and the effects of extreme weather events and agricultural inputs. The project's SQL scripts provided a comprehensive approach to managing and analyzing crop data, offering valuable insights that can inform agricultural practices and policy decisions.
